@@ -1,8 +1,4 @@
 # Thực hành Python với giao thức AMQP
-
-- Sinh viên: Lê Doãn Trung
-- Mã sinh viên: B23DCCN854
-
 ## 1. Môi trường và broker
 
 | Mục | Giá trị |
